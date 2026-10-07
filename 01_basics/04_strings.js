@@ -19,3 +19,5 @@ const newString=gameName.slice(-4,0)
 console.log(newString);
 
 
+
+
